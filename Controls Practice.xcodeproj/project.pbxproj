@@ -13,7 +13,7 @@
 		0AA96407276BED1400275AE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AA96405276BED1400275AE1 /* Main.storyboard */; };
 		0AA96409276BED2100275AE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AA96408276BED2100275AE1 /* Assets.xcassets */; };
 		0AA9640C276BED2100275AE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AA9640A276BED2100275AE1 /* LaunchScreen.storyboard */; };
-		0AA9641A276C0FC500275AE1 /* Screenshot01.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AA96419276C0FC500275AE1 /* Screenshot01.png */; };
+		0AA9641F276C10CD00275AE1 /* Screenshot01.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AA9641E276C10CD00275AE1 /* Screenshot01.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		0AA96408276BED2100275AE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AA9640B276BED2100275AE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AA9640D276BED2100275AE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0AA96419276C0FC500275AE1 /* Screenshot01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Screenshot01.png; path = ../../../Temp/Screenshot01.png; sourceTree = "<group>"; };
+		0AA9641E276C10CD00275AE1 /* Screenshot01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot01.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,7 +73,7 @@
 		0AA96414276C0EF000275AE1 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				0AA96419276C0FC500275AE1 /* Screenshot01.png */,
+				0AA9641E276C10CD00275AE1 /* Screenshot01.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -137,7 +137,7 @@
 			files = (
 				0AA9640C276BED2100275AE1 /* LaunchScreen.storyboard in Resources */,
 				0AA96409276BED2100275AE1 /* Assets.xcassets in Resources */,
-				0AA9641A276C0FC500275AE1 /* Screenshot01.png in Resources */,
+				0AA9641F276C10CD00275AE1 /* Screenshot01.png in Resources */,
 				0AA96407276BED1400275AE1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
