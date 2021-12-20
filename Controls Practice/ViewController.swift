@@ -44,7 +44,7 @@ class ViewController: UIViewController {
     
     /// Updates switches from the number
     func updateSwitches() {
-        for `switch` in switches {
+        for `switch` in switches {	
             `switch`.isOn = Int(number) & `switch`.tag != 0
         }
     }
